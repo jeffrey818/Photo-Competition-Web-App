@@ -2,7 +2,6 @@
 
 The project is a Photo Competition Web Application.
 The project was a university course project.
-Project Member: Mohammed Hocho(mhocho), Ziyu Zhou(jeffrey818).
 
 # Getting Started with Create React App
 
