@@ -3,6 +3,7 @@
 The project is a Photo Competition Web Application.
 The project was a university course project.
 
+
 Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
