@@ -1,4 +1,4 @@
-#Photo Competition Web Application
+# Photo Competition Web Application
 
 The project is a Photo Competition Web Application.
 The project was a university course project.
