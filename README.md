@@ -1,7 +1,6 @@
 # Photo Competition Web Application
 
-The project is a Photo Competition Web Application.
-The project was a university course project.
+The project is a Photo Competition Web Application, and I built this as my university capstone project.
 
 # Getting Started with Create React App
 
