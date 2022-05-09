@@ -2,6 +2,8 @@
 
 The project is a Photo Competition Web Application, and I built this as my university capstone project.
 
+<img width="1323" alt="UI" src="https://user-images.githubusercontent.com/39140744/167510301-086e5721-d2cf-4707-b740-634876ae82a7.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
