@@ -1,6 +1,6 @@
 # Photo Competition Web Application
 
-## website link: https://capstone-9b049.web.app/
+
 
 The project is a Photo Competition Web Application, and I built this as my university capstone project.
 
